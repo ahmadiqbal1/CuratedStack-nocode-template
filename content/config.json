@@ -1,11 +1,11 @@
 {
-  "title": "CuratedStack (No-Code) Template",
-  "shortname": "CuratedStack",
+  "title": "Webytes Curated Stack",
+  "shortname": "Webytes Stack",
   "description": "Collection of free design tools and resources for makers, developers and designers",
-  "contact_link": "https://www.sandoche.com/?contact",
-  "google_analytics": "G-QWW9YH0WM9",
+  "contact_link": "https://www.ahmadiqbal.live/",
+  "google_analytics": "G-T9QSMS22HC",
   "hostname": "https://curatedstacktemplate.learn.uno/",
-  "icon": "/images/logos/icon.png",
+  "icon": "/images/logos/screenshot-2021-04-24-at-10.56.57-am.png",
   "floatingPrompt": {
     "width": "500px",
     "left": "unset",
@@ -14,7 +14,7 @@
     "text": "Hi, do you like CuratedStack Nocode Template ? Don't forget to show your love on Product Hunt 🚀",
     "url": "https://www.producthunt.com/posts/curatedstack-no-code-template",
     "right": "32px",
-    "disabled": false,
+    "disabled": true,
     "buttonText": "CuratedStack Template on Product Hunt"
   }
 }
