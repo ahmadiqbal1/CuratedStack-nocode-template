@@ -15,10 +15,10 @@
         "learning",
         "cryptocurrency"
       ],
-      "name": "Get Started with CuratedStack (No-Code) Template",
-      "description": "Create for free your own curated collection of websites for free",
+      "name": "Get Started with Curated list of Software Stack by Webytes Tech Limited.",
+      "description": "Start exploring easy to use and productive software tools which helps you to manage designs, content and manage you and your in an easy way",
       "url": "https://github.com/sandoche/CuratedStack-nocode-template",
-      "icon": "/images/logos/icon.png"
+      "icon": "/images/logos/screenshot-2021-04-24-at-10.56.57-am.png"
     },
     {
       "categories_slugs": [
@@ -64,7 +64,8 @@
       ],
       "name": "Mobile App Landing Page Template",
       "description": "📱 Free to use static generated landing page template for your mobile app",
-      "url": "https://github.com/sandoche/Mobile-app-landingpage-template"
+      "url": "https://github.com/sandoche/Mobile-app-landingpage-template",
+      "icon": "/images/logos/screenshot-2021-04-24-at-10.56.57-am.png"
     },
     {
       "categories_slugs": [
@@ -214,7 +215,8 @@
       ],
       "name": "Jekyll-webpack-boilerplate",
       "description": "A Jekyll boilerplate supercharged with Webpack to build modern performant websites (including Progressive Web Apps)",
-      "url": "https://github.com/sandoche/Jekyll-webpack-boilerplate"
+      "url": "https://github.com/sandoche/Jekyll-webpack-boilerplate",
+      "icon": "/images/logos/screenshot-2021-04-24-at-10.56.57-am.png"
     },
     {
       "categories_slugs": [
@@ -231,10 +233,10 @@
         "learning",
         "cryptocurrency"
       ],
-      "name": "Create your own Curated Directory now",
-      "description": "Get started with the CuratedStack (No-Code) Template",
-      "url": "https://github.com/sandoche/CuratedStack-nocode-template",
-      "icon": "/images/logos/icon.png"
+      "name": "Want to suggest and add into the list? ",
+      "description": "Send me a message @",
+      "url": "https://ahmmadiqbal.live",
+      "icon": "/images/logos/screenshot-2021-04-24-at-10.56.57-am.png"
     }
   ]
 }
