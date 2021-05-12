@@ -3,7 +3,7 @@
     {
       "slug": "open-source",
       "name": "Open Source",
-      "description": "best free open source tools for your next projects",
+      "description": "Best free \"Open Source\" tools for your next projects",
       "icon": "🔨"
     },
     {
@@ -43,31 +43,31 @@
       "icon": "💡"
     },
     {
-      "slug": "design",
+      "slug": "Design",
       "name": "Design",
       "description": "best designs tools",
       "icon": "🎨"
     },
     {
-      "slug": "well-being",
+      "slug": "Well-Being",
       "name": "Well-being",
       "description": "best well-being tools",
       "icon": "🍀"
     },
     {
-      "slug": "books",
+      "slug": "Books",
       "name": "Books",
       "description": "best books",
       "icon": "📚"
     },
     {
-      "slug": "food",
+      "slug": "Food",
       "name": "Food",
       "description": "best resources for food lovers",
       "icon": "🥑"
     },
     {
-      "slug": "learning",
+      "slug": "Learning",
       "name": "Learning",
       "description": "best learning tools",
       "icon": "🎓"
